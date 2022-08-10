@@ -6,7 +6,7 @@
 - 🌱 Aprendendo HTML5, CSS3, JavaScript e Python
 - 🤔 Aceito qualquer ajuda e dica sobre esses e mais items acima!
 <div align="center">
-  <a href="https://github.com/asguz">
+  <a href="https://github.com/julio-rampaso">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=julio-rampaso&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="160em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julio-rampaso&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
