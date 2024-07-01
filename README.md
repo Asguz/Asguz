@@ -2,7 +2,7 @@
 
 ### Olá Eu sou o Asguz ou se preferir Júlio Rampaso que é o meu nome de verdade 👋
 
-- 🔭 Atualmente só faço lives na twitch por enquanto..
+- 🔭 Atualmente fazendo lives na twitch, trabalhando com telemarketing e compondo musicas instrumentais..
 - 🌱 Aprendendo HTML5, CSS3, JavaScript e Python
 - 🤔 Aceito qualquer ajuda e dica sobre esses e mais items acima!
 <div align="center">
